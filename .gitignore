@@ -57,3 +57,5 @@ docs/_build/
 target/
 
 token.txt
+.ipynb_checkpoints/
+kawasaki.csv
