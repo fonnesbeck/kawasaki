@@ -59,3 +59,6 @@ target/
 token.txt
 .ipynb_checkpoints/
 kawasaki.csv
+
+data/
+.DS_Store
